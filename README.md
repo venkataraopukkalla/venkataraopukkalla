@@ -26,7 +26,7 @@ Here are some of the technologies and tools I'm familiar with:
 
 I'm always open to new opportunities, collaborations, and discussions related to technology. If you'd like to connect or have a chat, feel free to reach out:
 
-- 💼 LinkedIn: [Its me](www.linkedin.com/in/venkataraoo)
+- 💼 LinkedIn: [Its me](https://www.linkedin.com/in/venkataraoo/)
 - 🐦 Twitter: [Its me](https://twitter.com/venkatarao_vp)
 
 
